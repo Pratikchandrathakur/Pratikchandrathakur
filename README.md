@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 👋
 ### I'm a Pratik Chandra Thakur a Cybersecurity Maverick! 👋
 
 🔍 **About Me:**
