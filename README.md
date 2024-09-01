@@ -7,7 +7,7 @@ I'm a dedicated cybersecurity student and a fervent tech enthusiast. My journey 
 🌱 **What I'm Learning:**
 The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my expertise by diving into the realms of React, Node.js, C#, and cloud computing. Each day brings a new challenge, and I'm here for it all!
 
-💡 ## Tech Toolbox 🛠️
+💡## Tech Toolbox 🛠️
 
 A glimpse into my coding arsenal:
 
