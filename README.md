@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a Pratik Chandra Thakur a Cybersecurity Maverick! 👋
+### I'm a Pratik Chandra Thakur a Cybersecurity Enthusiast| Curious Developer 👋
 
 🔍 **About Me:**
 I'm a dedicated cybersecurity student and a fervent tech enthusiast. My journey in the tech world is fueled by an insatiable curiosity and a passion for innovation. I've honed my skills through the rigorous Google Cybersecurity Course and have developed a robust skill set that includes crafting intricate SQL queries, automating tasks with Python, and creating dynamic solutions with JavaScript.
@@ -7,14 +7,17 @@ I'm a dedicated cybersecurity student and a fervent tech enthusiast. My journey 
 🌱 **What I'm Learning:**
 The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my expertise by diving into the realms of React, Node.js, C#, and cloud computing. Each day brings a new challenge, and I'm here for it all!
 
-💡 **Tech Toolbox:**
-- **SQL**: Querying databases with precision
-- **Python**: Automating the mundane, focusing on the extraordinary
-- **JavaScript**: Bringing interactivity to the web
-- **React**: Building seamless UIs
-- **Node.js**: Powering server-side magic
-- **C#**: Structuring robust applications
-- **Cloud Computing**: Exploring the vast sky of possibilities
+💡 ## Tech Toolbox 🛠️
+
+A glimpse into my coding arsenal:
+
+- SQL: Querying databases with precision
+- Python: Automating the mundane, focusing on the extraordinary
+- JavaScript: Bringing interactivity to the web
+- React: Building seamless UIs
+- Node.js: Powering server-side magic
+- C#: Structuring robust applications
+- Cloud Computing: Exploring the vast sky of possibilities
 
 🚀 **My Mission:**
 To safeguard the digital frontier and create impactful technology that resonates with users worldwide. Let's connect and build a secure, tech-savvy future together!
