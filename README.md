@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@krisprogra69597/30-nites-of-code)  
+  ![@krisprogra69597 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=krisprogra69597)
+   ### Baymax
