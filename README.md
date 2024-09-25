@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratikchandrathakur&style=for-the-badge&color=red" alt=""/>
+</div>
+
 # Hi there 👋
 ## I'm a Pratik Chandra Thakur a Cybersecurity Enthusiast| Curious Developer 👋
 
