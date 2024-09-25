@@ -46,3 +46,25 @@ Here are some ideas to get you started:
   [Check out my progress!](https://www.codedex.io/@krisprogra69597/30-nites-of-code)  
   ![@krisprogra69597 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=krisprogra69597)
    ### Baymax
+## Progress
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Pratikchandrathakur&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<table style="margin: auto;">
+    <tr>
+        <td align="center">
+            <img width="800" height="220" src="https://streak-stats.demolab.com?user=Pratikchandrathakur&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+        </td>
+    </tr>
+</table>
+
+<div style="text-align: center;">
+    <table style="margin: auto;">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=Pratikchandrathakur&count_private=true&show_icons=true&theme=tokyonight"/>
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikchandrathakur&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            </td>
+        </tr>
+    </table>
+</div>
