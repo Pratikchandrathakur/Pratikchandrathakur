@@ -46,10 +46,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@krisprogra69597/30-nites-of-code)  
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="250px">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="250px">
+  <img alt="Codédex Logo" src="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="400px">
+</picture>
+
+ 
+</p>
+<h1> My Progress On Codédex Platform</h1>
+  <img align=right src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="230px">
+<br /><br />
+<strong>Check my coding progress by clicking on my pet ⋆˙⟡ <strong />
+</p>
+  
   ![@krisprogra69597 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=krisprogra69597)
-   ### Baymax
+### Baymax
+  
+-----
+   
 ## Progress
   [![trophy](https://github-profile-trophy.vercel.app/?username=Pratikchandrathakur&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <table style="margin: auto;">
