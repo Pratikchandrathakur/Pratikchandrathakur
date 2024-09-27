@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h1> My Progress On Codédex Platform</h1>
   <img align=right src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="230px">
 <br /><br />
-<strong>Check my coding progress by clicking on my pet ⋆˙⟡ <strong />
+<strong>Check my coding progress ⋆˙⟡ <strong />
 </p>
   
   ![@krisprogra69597 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=krisprogra69597)
