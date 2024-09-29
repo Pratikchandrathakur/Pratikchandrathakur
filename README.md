@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <table style="margin: auto;">
     <tr>
         <td align="center">
-            <img width="800" height="220" src="https://streak-stats.demolab.com?user=Pratikchandrathakur&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&cache_seconds=500">
+            <img width="800" height="220" src="https://streak-stats.demolab.com?user=Pratikchandrathakur&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&cache_seconds=100">
         </td>
     </tr>
 </table>
