@@ -3,7 +3,7 @@
 </div>
 
 # Hi there 👋
-## I'm a Pratik Chandra Thakur a Cybersecurity Enthusiast| Curious Developer 👋
+## I'm a Pratik Chandra Thakur a Cybersecurity Enthusiast | Curious Developer 👋
 
 🔍 **About Me:**
 I'm a dedicated cybersecurity student and a fervent tech enthusiast. My journey in the tech world is fueled by an insatiable curiosity and a passion for innovation. I've honed my skills through the rigorous Google Cybersecurity Course and have developed a robust skill set that includes crafting intricate SQL queries, automating tasks with Python, and creating dynamic solutions with JavaScript.
