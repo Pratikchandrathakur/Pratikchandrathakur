@@ -11,7 +11,9 @@ I'm a dedicated cybersecurity student and a fervent tech enthusiast. My journey 
 🌱 **What I'm Learning:**
 The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my expertise by diving into the realms of React, Node.js, C#, and cloud computing. Each day brings a new challenge, and I'm here for it all!
 
-## Tech Toolbox 🛠️
+<br/>
+  <h2 align="center">⚡Tech Toolbox 🛠️⚡</h2>
+<br>
 
 ### A glimpse into my coding arsenal:
 
@@ -28,9 +30,7 @@ The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my ex
 
 🚀 **My Mission:**
 To safeguard the digital frontier and create impactful technology that resonates with users worldwide. Let's connect and build a secure, tech-savvy future together!
-
----
-
+<br/>
 Feel free to reach out if you're interested in collaborating or if you have any questions about my work. Let's make the cyber world a safer place, one line of code at a time!
 <!--
 **Pratikchandrathakur/Pratikchandrathakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+----
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="250px">
@@ -53,26 +54,27 @@ Here are some ideas to get you started:
   <img alt="Codédex Logo" src="https://github.com/codedex-io/.github/assets/65576812/bad9de45-9136-4569-a2cd-b28365c32d51" width="400px">
 </picture>
 
- 
-</p>
-<h1> My Progress On Codédex Platform</h1>
-  <img align=right src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="230px">
+<h2 align="center">My Codédex Learning Journey and Progress</h2>
+  <img align=left src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="230px">
 <br /><br />
 <strong>Check my coding progress ⋆˙⟡ <strong />
-</p>
-  
-  ![@krisprogra69597 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=krisprogra69597)
-  Progress here https://www.codedex.io/@krisprogra69597
-### Baymax
-  
------
+  <img align="right" src="https://www.codedex.io/api/petStatus?user=krisprogra69597" width=230px>
+ 
+  <h4>Progress here 👇</h4> https://www.codedex.io/@krisprogra69597
+  <br/>
+  <h3 align="right" color="cyan">👋Hi, It's Baymax 👉</h3>
+  <br/>
+
    
-## Progress
+  <br/>
+  <h2 align="center">⚡Current Stats⚡</h2>
+<br>
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=Pratikchandrathakur&title=Stars,Followers,Commits,Repositories,MultipleLang,Experience,PullRequest,Issues&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <table style="margin: auto;">
     <tr>
         <td align="center">
-            <img width="800" height="220" src="https://streak-stats.demolab.com?user=Pratikchandrathakur&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&cache_seconds=100">
+            <img width="800" height="220" src="https://streak-stats.demolab.com?user=Pratikchandrathakur&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&cache_seconds=1000">
         </td>
     </tr>
 </table>
@@ -81,10 +83,10 @@ Here are some ideas to get you started:
     <table style="margin: auto;">
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=Pratikchandrathakur&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=100"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=Pratikchandrathakur&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1000"/>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikchandrathakur&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby&cache_seconds=100"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikchandrathakur&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby&cache_seconds=1000"/>
             </td>
         </tr>
     </table>
