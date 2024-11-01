@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <table style="margin: auto;">
     <tr>
         <td align="center">
-            <img width="800" height="220" src="https://streak-stats.demolab.com?user=Pratikchandrathakur&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&cache_seconds=1000">
+            <img width="800" height="220" src="https://streak-stats.demolab.com?user=Pratikchandrathakur&theme=highcontrast&hide_border=true&border_radius=10&card_width=800&cache_seconds=1000">
         </td>
     </tr>
 </table>
@@ -83,10 +83,10 @@ Here are some ideas to get you started:
     <table style="margin: auto;">
         <tr>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=Pratikchandrathakur&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1000"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=Pratikchandrathakur&count_private=true&show_icons=true&border_radius=10&theme=radical&cache_seconds=1000"/>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikchandrathakur&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby&cache_seconds=1000"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikchandrathakur&langs_count=10&layout=compact&border_radius=10&theme=radical&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby&cache_seconds=1000"/>
             </td>
         </tr>
     </table>
