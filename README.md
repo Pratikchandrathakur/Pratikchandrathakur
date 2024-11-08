@@ -31,7 +31,7 @@ The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my ex
 🚀 **My Mission:**
 To safeguard the digital frontier and create impactful technology that resonates with users worldwide. Let's connect and build a secure, tech-savvy future together!
 <br/>
-Feel free to reach out if you're interested in collaborating or if you have any questions about my work. Let's make the cyber world a safer place, one line of code at a time!
+Feel free to reach out if you're interested in collaborating or if you have any questions about my work. Let's make the cyber world a safer place, one line of code at a time! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20px" height="20px">
 <!--
 **Pratikchandrathakur/Pratikchandrathakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
