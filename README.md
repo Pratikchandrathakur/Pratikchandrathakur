@@ -2,8 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Pratikchandrathakur&style=for-the-badge&color=red" alt=""/>
 </div>
 
-# Hi there 👋
-## I'm a Pratik Chandra Thakur a Cybersecurity Enthusiast | Curious Developer 👋
+# Hi there ! <img src="https://github.com/user-attachments/assets/310249da-3484-4df6-86d2-21d4e71d9592" width="40px" height="40px" />
+
+## I'm a Pratik Chandra Thakur a Cybersecurity Enthusiast | Curious Developer 
 
 🔍 **About Me:**
 I'm a dedicated cybersecurity student and a fervent tech enthusiast. My journey in the tech world is fueled by an insatiable curiosity and a passion for innovation. I've honed my skills through the rigorous Google Cybersecurity Course and have developed a robust skill set that includes crafting intricate SQL queries, automating tasks with Python, and creating dynamic solutions with JavaScript.
