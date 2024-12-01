@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ----
 <h2 align="center">My TryHackMe Learning Journey and Progress</h2>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/krishackersu.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/r/p/krishackersu"><img src="https://tryhackme-badges.s3.amazonaws.com/krishackersu.png" alt="Your Image Badge" /></a>
 </p>
 
 ----
