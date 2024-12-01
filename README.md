@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/krishackersu.png" alt="Your Image Badge" />
 </p>
+
+----
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="250px">
