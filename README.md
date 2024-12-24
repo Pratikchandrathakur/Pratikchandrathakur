@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ----
 <h2 align="center">My TryHackMe Learning Journey and Progress</h2>
 <p align="center">
-  <a href="https://tryhackme.com/r/p/krishackersu"><img src="https://github.com/user-attachments/assets/97ed1305-8771-4665-91b4-3bb68a90190f"/>
+  <a href="https://tryhackme.com/r/p/krishackersu"><img src="https://github.com/user-attachments/assets/d7209b9c-511f-48c5-9556-dc62ee220d80"/>
 </a>
 </p>
 
