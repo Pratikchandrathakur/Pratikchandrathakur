@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ----
-<h2 align="center">My TryHackMe Learning Journey and Progress</h2>
+<h2 align="center">My TryHackMe Learning Journey and Progress[HACKER]</h2>
 <p align="center">
   <a href="https://tryhackme.com/r/p/krishackersu"><img src="https://github.com/user-attachments/assets/df5d05bb-9e37-4d97-b13c-9f80bf79179b"/>
 </a>
