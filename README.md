@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ----
 <h2 align="center">My TryHackMe Learning Journey and Progress[HACKER]</h2>
 <p align="center">
-  <a href="https://tryhackme.com/p/ThreatBuster"><img src="https://github.com/user-attachments/assets/3befecbe-3b70-4e45-a200-a6bfaa1730f0"/>
+  <a href="https://tryhackme.com/p/ThreatBuster"><img src="https://github.com/user-attachments/assets/905452a7-709c-46b2-b72e-122603e43e6d"/>
 </a>
 </p>
 
