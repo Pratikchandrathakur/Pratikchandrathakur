@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-----
 <h2 align="center">My TryHackMe Learning Journey and Progress[HACKER]</h2>
 <p align="center">
   <a href="https://tryhackme.com/p/ThreatBuster"><img src="https://github.com/user-attachments/assets/eafbb589-f25a-4ab3-b407-00277f4e4e50"/>
@@ -58,6 +57,12 @@ Here are some ideas to get you started:
 </p>
 
 ----
+<h2 align="center">Check out my blogs here (Learning Journal) </h2>
+<p align="center">
+  <a href="https://hashnode.com/@PratikChandra"><img src="https://github.com/user-attachments/assets/f917f4a8-dc42-4ff3-a4ce-98a48a82f571" width="500px"/>
+</a>
+</p>
+<hr>
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codedex-io/.github/assets/65576812/6dd61b76-4149-4515-bb4c-495ed30ba712" width="250px">
