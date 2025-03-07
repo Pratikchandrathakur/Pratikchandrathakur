@@ -50,18 +50,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">My TryHackMe Learning Journey and Progress[HACKER]</h2>
+<h2 align="center">🚀 My TryHackMe Learning Journey and Progress 🛡️</h2>
+
 <p align="center">
-  <a href="https://tryhackme.com/p/ThreatBuster"><img src="https://github.com/user-attachments/assets/99eb731e-adcf-46cf-99fd-78aed35d7cc0"/>
-</a>
+  <a href="https://tryhackme.com/p/ThreatBuster">
+    <img src="https://github.com/user-attachments/assets/99eb731e-adcf-46cf-99fd-78aed35d7cc0" 
+         alt="TryHackMe Progress"
+      />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <strong>Check my cybersecurity skills progress</strong> ➡️ 
+  <a href="https://roadmap.sh/cyber-security?s=65a739008240aa21a4a9894f">
+    Cybersecurity Roadmap
+  </a>
 </p>
 
 ----
-<h2 align="center">Check out my blogs here (Learning Journal) </h2>
+<h2 align="center">📖 My Learning Journal - Blogs & Insights ✍️</h2>
+
 <p align="center">
-  <a href="https://hashnode.com/@PratikChandra"><img src="https://github.com/user-attachments/assets/f917f4a8-dc42-4ff3-a4ce-98a48a82f571" width="500px"/>
-</a>
+  <a href="https://hashnode.com/@PratikChandra">
+    <img src="https://github.com/user-attachments/assets/f917f4a8-dc42-4ff3-a4ce-98a48a82f571" 
+         alt="My Hashnode Blogs"
+         width="550"/>
+  </a>
 </p>
+
+<p align="center">
+  🚀 <strong>Explore my latest blogs & insights</strong> ➡️ 
+  <a href="https://hashnode.com/@PratikChandra">
+    Visit my Hashnode profile
+  </a>
+</p>
+
 <hr>
 <p align="center">
   <picture>
