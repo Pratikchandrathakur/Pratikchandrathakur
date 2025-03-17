@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://tryhackme.com/p/ThreatBuster">
-    <img src="https://github.com/user-attachments/assets/bc2a8f10-9b3d-4713-92ba-a6fe1720f057" 
+    <img src="https://github.com/user-attachments/assets/707b015f-9339-4ba1-8775-06131f30b5ef" 
          alt="TryHackMe Progress"
       />
   </a>
