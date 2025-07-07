@@ -17,8 +17,46 @@ The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my ex
 <br>
 
 ### A glimpse into my coding arsenal:
+### A glimpse into my coding arsenal:
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://github.com/Pratikchandrathakur)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://www.linkedin.com/in/pratik-chandra-thakur-739325269/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](#)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'>](#)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>](https://github.com/Pratikchandrathakur/JavaScript_Professional)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'>](https://github.com/Pratikchandrathakur) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='40'>](#)  [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](#)  [<img src='https://pixelbag.net/wp-content/uploads/2021/12/AWS-Logo-svg.jpg' alt='github' height='40'>](#)  [<img src='https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png' alt='github' height='40'>](#)  [<img src='https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png' alt='github' height='40'>](#) [<img src='https://static-00.iconduck.com/assets.00/csharp-icon-877x1024-u90gkl28.png' alt='github' height='40'>](#)
+<p align="center">
+  <a href="https://github.com/Pratikchandrathakur">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="50" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratik-chandra-thakur-739325269/">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="50" height="50"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="50" height="50"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactjs" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/Pratikchandrathakur/JavaScript_Professional">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/Pratikchandrathakur">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="50" height="50"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="50" height="50"/>
+  </a>
+  <a href="#">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="50" height="50"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="50" height="50"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+  </a>
+</p>
  
 - SQL: Querying databases with precision
 - Python: Automating the mundane, focusing on the extraordinary
