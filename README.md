@@ -15,8 +15,6 @@ The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my ex
 <br/>
   <h2 align="center">⚡Tech Toolbox 🛠️⚡</h2>
 <br>
-
-### A glimpse into my coding arsenal:
 ### A glimpse into my coding arsenal:
 
 <p align="center">
