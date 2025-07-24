@@ -19,10 +19,10 @@ The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my ex
 ### A glimpse into my coding arsenal:
 
 <p align="center">
-  <a href="https://github.com/Pratikchandrathakur">
+  <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="50" height="50"/>
   </a>
-  <a href="https://www.linkedin.com/in/pratik-chandra-thakur-739325269/">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="50" height="50"/>
   </a>
   <a href="#">
@@ -31,7 +31,7 @@ The tech landscape is ever-evolving, and so am I. Currently, I'm expanding my ex
   <a href="#">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactjs" width="50" height="50"/>
   </a>
-  <a href="https://github.com/Pratikchandrathakur/JavaScript_Professional">
+  <a href="">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="50" height="50"/>
   </a>
   <a href="https://github.com/Pratikchandrathakur">
