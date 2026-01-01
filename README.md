@@ -12,7 +12,7 @@
   <a href="https://hashnode.com/@PratikChandra" target="_blank">
     <img src="https://img.shields.io/badge/Read_my_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pratikchandrathakur@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
