@@ -22,7 +22,7 @@
 ### 🎯 The "Right Doer" Mission
 > *"To protect society from cyber threats by building automated, unbreakable security infrastructure. I don't just find vulnerabilities; I engineer the systems that prevent them."*
 
-I am a **Security Analyst** and **DevSecOps Engineer** specializing in **AWS Security Automation** and **Pipeline Hardening**. Unlike traditional pentesters, I focus on *shifting left*—automating security checks so vulnerabilities are caught before code ever reaches production.
+I am a **Security Analyst** and **DevSecOps Engineer** specializing in **AWS Security Automation** and **Pipeline Hardening**. Unlike traditional pentesters, I focus on *shifting left* automating security checks so vulnerabilities are caught before code ever reaches production.
 
 ---
 
