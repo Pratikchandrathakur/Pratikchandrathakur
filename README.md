@@ -62,7 +62,7 @@ I am a **Security Analyst** and **DevSecOps Engineer** specializing in **AWS Sec
 
 <div align="center">
   <a href="https://tryhackme.com/p/ThreatBuster">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ThreatBuster.png" alt="TryHackMe">
+    <img src="https://github.com/user-attachments/assets/812a579a-4d7d-4b3f-b262-6b7bea29fdf8" alt="TryHackMe">
   </a>
 </div>
 
