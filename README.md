@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Pratik Chandra Thakur</h1>
-<h3 align="center">🛡️ DevSecOps Engineer | Cloud Security Researcher | Builder</h3>
+<h3 align="center">🛡️Security Engineer | DevSecOps Engineer | Cloud Security Researcher | Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratikchandrathakur" target="_blank">
